@@ -137,12 +137,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25"/> &nbsp;GitHub Stats</h2>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash-raj-jain22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-raj-jain22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages"/>
-</p>
 
 <br/>
 
